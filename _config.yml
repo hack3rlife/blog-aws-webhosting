@@ -3,5 +3,6 @@ description: Jekyll Website Hosted on AWS S3 Using GitHub Actions
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
-
+github:
+  repository_url: https://github.com/hack3rlife/blog-aws-webhosting
 # Deploy a Jekyll site to AWS S3 using GitHub Actions
